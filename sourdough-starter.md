@@ -1,7 +1,7 @@
 # Sourdough starter
 
 ## Ingredients
-- Flour whole wheat is preferred, organic is preferred, regular all purpose white will work just fine
+- Flour — Whole wheat is preferred, organic is preferred, conventional all purpose white will work just fine
 - Water
 
 ## Equipment
