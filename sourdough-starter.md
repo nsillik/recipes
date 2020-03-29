@@ -11,8 +11,8 @@
 ## Steps
 
 1. Day 1: Put 100g of flour and 100g of water in the mason jar, stir to combine, let sit uncovered for a day
-2. Day 2: Dump out most (but not all, leave about 10%) of the goop. Add 100g flour and 100g water. Let sit uncovered (or covered, doesn't matter too much) for another day.
-3. Day 3-? (see notes): Dump out most (but not all, leave about 10%) of the goop. Add 100g flour and 100g water.
+2. Day 2: Dump out most (but not all, leave about 25%) of the goop. Add 100g flour and 100g water. Let sit uncovered (or covered, doesn't matter too much) for another day.
+3. Day 3-? (see notes): Dump out most (but not all, leave about 25%) of the goop. Add 100g flour and 100g water.
 4. You can continue to feed every day, or once it's really alive you can pop it into the fridge and feed less frequently (twice a week, or if you want to really push it once a week)
 5. If you've been storing it in the fridge and you want to bake, pull it out 24 hours before you want to start baking and feed it again by following step 3.
 
